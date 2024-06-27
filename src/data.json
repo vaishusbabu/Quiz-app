@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which continent has the highest number of countries?",
+    "options": ["Asia", "Europe", "North America", "Africa"],
+    "ans": 4
+  },
+  {
+    "question": "Junk e-mail is also called?",
+    "options": ["Spam", "Fake", "Archived", "Bin"],
+    "ans": 1
+  },
+  {
+    "question": "A computer cannot BOOT if it does not have the?",
+    "options": ["Application Software", "Internet", "Operating System", "Mouse"],
+    "ans": 3
+  },
+  {
+    "question": "First page of Website is termed as?",
+    "options": ["Index Page", "Homepage", "Sitemap", "Pen Drive"],
+    "ans": 2
+  }
+]
